@@ -85,3 +85,4 @@ You can use ZincSearch to index and search any data. Here are some examples that
 1. https://github.com/devjopa/golab-search
 1. https://github.com/avaco2312/zincsearch
 1. https://github.com/paolorossig/email-indexer
+2. https://github.com/Jere283/ZincSearch-Indexer-WebSearchTool
